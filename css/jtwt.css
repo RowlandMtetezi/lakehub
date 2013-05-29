@@ -1,0 +1,33 @@
+.jtwt { 
+	list-style: none; 
+}
+/*--------------*/
+.jtwt li { 
+	margin-bottom: 10px; 
+	/*border:1px solid #999999;*/
+	margin-left:-5px;
+	padding:10px;
+	border-radius:3px;
+	color: #7f7159;
+}
+/*--------------*/
+.jtwt li:last-child { 
+	margin-bottom: 0px; 
+}
+/*--------------*/
+.jtwt_loader {
+	 font-weight: bold; 
+}
+/*--------------*/
+.jtwt_picture { 
+	float: left; margin-right: 5px; 
+}
+/*--------------*/
+p.jtwt_tweet_text { 
+	text-align: justify; 
+}
+/*--------------*/
+a.jtwt_date {
+	 font-size: 12px; 
+}
+/*--------------*/

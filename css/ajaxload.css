@@ -1,0 +1,11 @@
+#content-body_primary_primary_wrap {
+	padding:0 10px 10px 20px;
+	border: 1px solid #ccc;
+	margin-top:12px;
+	margin-left:5px;
+	margin-right:5px;
+	height:200px;
+	-webkit-border-radius: 5px;
+	 -moz-border-radius: 5px;
+	 border-radius: 5px;
+}
